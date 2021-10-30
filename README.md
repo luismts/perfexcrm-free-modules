@@ -34,7 +34,11 @@ Name | Author | Free
 Name | Author | Free
 ---- | ------ | --------
 [Italian](https://github.com/caygri/perfexcrm-italian-language) | caygri | y
-[knowledge Base Per Customer](https://xamarinhelp.com/xamarin-forms-architectural-guidance/) | pofa2007 | y
+[Language files](https://github.com/mstojanovv/PerfexCRM) | mstojanovv | y
+[Language files for Backup module.](https://github.com/mstojanovv/PerfexCRM-backup) | mstojanovv | y
+[Language files for Surveys module.](https://github.com/mstojanovv/PerfexCRM-surveys) | mstojanovv | y
+[Language files for Menu Setup module.](https://github.com/mstojanovv/PerfexCRM-menu_setup) | mstojanovv | y
+[Language files for Goals module.](https://github.com/mstojanovv/PerfexCRM-goals) | mstojanovv | y
 
 ### Hacks
 
