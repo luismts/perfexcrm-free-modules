@@ -28,17 +28,24 @@ Name | Author | Free
 [Sharex to Perfex crm](https://github.com/pofa2007/sharex-to-perfexcrm) | pofa2007 | y
 [Email Builder](https://github.com/wlocalhost/perfex-email-builder) | wlocalhost | y
 [Gladepay payment Gateway](https://github.com/Douglasokolaa/gladepay-NGN-payment-gateway-perfex-crm) | Douglasokolaa | y
+[Header & Footer Code](https://github.com/Granulr/perfex_headerfooter) | Granulr | y
+[Boletos Itau](https://github.com/GearsDF/perfexcrm) | GearsDF | y
+[Invoices attachment](https://github.com/viher3/invoicy-perfexcrm-module) | viher3 | y
+[Trimestral Reports (Invoices and expenses)](https://github.com/viher3/trimestral-perfexcrm-module) | viher3 | y
 
 ### Traslations
 
 Name | Author | Free
 ---- | ------ | --------
 [Italian](https://github.com/caygri/perfexcrm-italian-language) | caygri | y
+[Croatian](https://github.com/r43/perfex-crm-croatian-translation) | r43 | y
+[Slovenian](https://github.com/mrpreeters/perfexcrm-slovenian) | mrpreeters | y
 [Language files](https://github.com/mstojanovv/PerfexCRM) | mstojanovv | y
 [Language files for Backup module.](https://github.com/mstojanovv/PerfexCRM-backup) | mstojanovv | y
 [Language files for Surveys module.](https://github.com/mstojanovv/PerfexCRM-surveys) | mstojanovv | y
 [Language files for Menu Setup module.](https://github.com/mstojanovv/PerfexCRM-menu_setup) | mstojanovv | y
 [Language files for Goals module.](https://github.com/mstojanovv/PerfexCRM-goals) | mstojanovv | y
+[Language files for Theme Style module.](https://github.com/mstojanovv/PerfexCRM-theme_style) | mstojanovv | y
 
 ### Hacks
 
@@ -46,6 +53,10 @@ Name | Author | Free
 ---- | ------ | --------
 [PerfexCRM Module Boilerplate](https://github.com/LunarDevelopment/PerfexCRM-Module-Boilerplate) | LunarDevelopment | y
 [knowledge Base Per Customer](https://xamarinhelp.com/xamarin-forms-architectural-guidance/) | pofa2007 | y
+[Payment Gateway Modules](https://github.com/honestworker/perfex_gateways) | honestworker | y
+[Perfex CRM with Docker](https://github.com/ferronicardoso/perfexcrm-docker) | ferronicardoso | y
+[Task abd Ticket Reports](https://github.com/codemagician45/perfexCRM_simple_modification-codeigniter) | ferronicardoso | y
+[Patches](https://github.com/hellhond/perfexcrm) | ferronicardoso | y
 
 ## Want to contribute :pencil2:
 
@@ -75,6 +86,19 @@ Pull requests will be accepted based on the following:
 
 - If you want to know a little more about this project, you can visit the following [link](https://twitter.com/luismatosluna).
 - Ask direcltly in our [facebook](https://www.facebook.com/groups/154979905023827/) group(EN).
+
+<p>
+    <a href="mailto:info@malla.agency" rel="nofollow"><img src="https://github.com/mallaagency/static-site/raw/main/support.png" alt="Malla Agency" /></a>
+</p>
+
+### Follow us:
+<p>
+    <a href="https://codecanyon.net/user/mallaagency/follow"><img src="https://github.com/mallaagency/static-site/raw/main/envato.png" alt="Stay In Contact with Perfex CRM" /></a>
+    <a href="https://www.facebook.com/mallaagencyrd/" rel="nofollow"><img src="https://github.com/mallaagency/static-site/raw/main/facebook.png" alt="Stay In Contact with Perfex CRM" /></a>
+    <a href="https://www.instagram.com/mallaagencyRD/" rel="nofollow"><img src="https://github.com/mallaagency/static-site/raw/main/instagram.png" alt="Stay In Contact with Perfex CRM" /></a> 
+    <a href="https://twitter.com/mallaagencyrd" rel="nofollow"><img src="https://github.com/mallaagency/static-site/raw/main/twitter.png" alt="Stay In Contact with Perfex CRM" /></a>
+    <a href="https://www.linkedin.com/company/mallaagencyrd" rel="nofollow"><img src="https://github.com/mallaagency/static-site/raw/main/linkedin.png" alt="Stay In Contact with Perfex CRM" /></a>
+</p>
 
 ## Acknowledgements :muscle:
 
