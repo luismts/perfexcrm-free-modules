@@ -33,7 +33,7 @@ Name | Author | Free
 [Invoices attachment](https://github.com/viher3/invoicy-perfexcrm-module) | viher3 | y
 [Trimestral Reports (Invoices and expenses)](https://github.com/viher3/trimestral-perfexcrm-module) | viher3 | y
 
-### Traslations
+### Translations
 
 Name | Author | Free
 ---- | ------ | --------
