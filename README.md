@@ -7,9 +7,9 @@ This is a universal library that contains everything we need to know about the P
 
 Here we have the following sections:
 
-- [Modules](/src/articles)
-- [Translations](/src/books)
-- [Hacks](/src/courses)
+- [Modules](#modules)
+- [Translations](#translations)
+- [Hacks](#hacks)
 - Among others, coming soon... :fire:
 
 See all the content [here](src). Didn't find the section you were looking for? This's for you [here](#want-to-add-a-new-section-or-sub-section).
